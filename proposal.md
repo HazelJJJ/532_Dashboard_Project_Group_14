@@ -6,9 +6,10 @@
 
 Our role: Data scientist consultancy firm
 
-Target audience: Health care administrators
+Target audience: IBM ?? management team
 
-Missed medical appointments cost the healthcare system a lot of money and affects the quality of care. If we could understand what factors lead to missed appointments it may be possible to reduce their frequency. To address this challenge, we propose building a data visualization app that allows health care administrators to visually explore a dataset of missed appointments to identify common factors. Our app will show the distribution of factors contributing to appointment show/no show and allow users to explore different aspects of this data by filtering and re-ordering on different variables in order to compare factors that contribute to absence.
+Companies usually spend a large amount of money on training new employees every year. Whenever there is a turnover, it is costly to go through the hiring and training process. Therefore, employee loyalty is one the important things that management team should draw attention to. It is very useful to uncover the factors contribute to employee attrition. To address this challenge, we propose building a data visualization app that offers the management team to visually explore the dataset of employee attrition to identify common factors. Our app will show whether the employee choose to attrite and allow users to filter different variables in order to better explore and compare the factors that lead to attrition. 
+
 
 
 
